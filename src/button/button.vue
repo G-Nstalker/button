@@ -1,5 +1,8 @@
 <template>
-  <button class="vc-button"><slot></slot></button>
+  <button
+    class="vc-button">
+    <slot></slot>
+  </button>
 </template>
 
 <script>
